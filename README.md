@@ -5,6 +5,7 @@ Ideia que voce possa postar tweets direto do seu terminal é tambem listar sua t
 
 ## Como usar o projeto ?
 * Clone o projeto.
+* Não se esqueça de rodar ```composer install``` para instalar a pasta vendor.
 * Faça uma [conta desenvolvedor no twitter](https://developer.twitter.com/en) é crie um aplicativo o passo a passo bem simples é intuivo no site deles.
 * Depois disso, voce vai pegar chave de api,chave de api secreta o token é token secreto colocar no arquivo .env pois eles vão dar acesso sua conta.
 
