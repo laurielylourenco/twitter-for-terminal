@@ -12,7 +12,7 @@ class TesteApi extends Command
      *
      * @var string
      */
-    protected $signature = 'user:teste';
+    protected $signature = 'user:test';
 
     /**
      * The description of the command.

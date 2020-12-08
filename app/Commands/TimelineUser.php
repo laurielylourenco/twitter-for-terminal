@@ -6,8 +6,6 @@ use Illuminate\Console\Scheduling\Schedule;
 use LaravelZero\Framework\Commands\Command;
 use App\Library\Twitter;
 
-
-
 class TimelineUSer extends Command
 {
     
@@ -36,7 +34,6 @@ class TimelineUSer extends Command
        try {
             $timeline = $twitter->timelineTerminal(5); 
             foreach ($timeline as $tweet) {
-
                 $nome  = $tweet->user->name;
                 $username  = $tweet->user->screen_name;
                 $texto = $tweet->text;

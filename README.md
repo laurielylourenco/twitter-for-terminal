@@ -1,4 +1,5 @@
 # Twitter for terminal
+ <img src="public/img/foto.jpg" alt="alt text" width="900px" height="400px" > 
 
 Ideia que voce possa postar tweets direto do seu terminal é tambem listar sua timeline mais recente.Esse projeto foi desenvolvido com Laravel-zero um micro-framework para construir aplicativos de linha de comando.
 * [[Laravel-zero](https://laravel-zero.com/)] - micro-framework baseado no Laravel
@@ -29,3 +30,7 @@ Ideia que voce possa postar tweets direto do seu terminal é tambem listar sua t
 
 ***
 ***Se algo não estiver funcionando faça uma issue ou se voce tem alguma ideia como faz para que os comandos funcionem fora da pasta do projeto ou sei la voce ta afim de comentar algo que eu possa melhorar, fique a vontade...***
+
+
+
+<!-- ![imagem do projeto for terminal](public/img/foto.jpg)  -->
